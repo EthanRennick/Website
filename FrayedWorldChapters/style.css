@@ -69,3 +69,32 @@
     text-align: center;
 }
 
+.navbar ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+    text-decoration: none;
+}
+
+.navbar ul li{
+    display: inline-block;
+    padding: 15px 30px;
+}
+
+.navbar ul li a{
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2vw;
+    text-decoration: none;
+
+}
+
+.navbar ul li a:hover{
+    color: #2df04d;
+    transition: 0.5s;
+}
+
+body { 
+    background-color: powderblue;
+}
