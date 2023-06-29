@@ -9,8 +9,17 @@
         "incomparible",
         "Irrilith",
         "Lement",
+        "polearms",
         "Thalmann",
         "undending"
     ],
-    "cSpell.language": "en,en-GB,en-US"
+    "cSpell.language": "en,en-GB,en-US",
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:ethanrennick.github.io}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
 }
